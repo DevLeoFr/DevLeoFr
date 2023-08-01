@@ -8,7 +8,7 @@
 <!---
 - je suis au cameroun actuellement a la recherche de nouvelle connaissance dans le developpenment d'application
 --->
- je sais deja developper en:
+ je sais deja developper en :
  
  -> python-django
  -> reactjs
